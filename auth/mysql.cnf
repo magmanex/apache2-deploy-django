@@ -1,0 +1,5 @@
+[client]
+database = "tutorial"
+user = "ashira"
+password = "$%9ec813AF"
+default-character-set = "utf8"

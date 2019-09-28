@@ -1,0 +1,22 @@
+[Sat Sep 28 09:33:38.177506 2019] [wsgi:error] [pid 26359:tid 139761733818112] [remote 49.49.245.239:54125] Not Found: /static/admin/css/fonts.css
+[Sat Sep 28 09:37:07.467535 2019] [wsgi:error] [pid 26359:tid 139761851381504] [remote 49.49.245.239:57162] Not Found: /static/admin/css/base.css
+[Sat Sep 28 09:37:07.497944 2019] [wsgi:error] [pid 26359:tid 139761851381504] [remote 49.49.245.239:58220] Not Found: /static/admin/css/dashboard.css
+[Sat Sep 28 09:37:07.499015 2019] [wsgi:error] [pid 26359:tid 139761733818112] [remote 49.49.245.239:63158] Not Found: /static/admin/css/responsive.css
+[Sat Sep 28 09:39:56.379912 2019] [wsgi:error] [pid 26359:tid 139761851381504] [remote 49.49.245.239:57193] Not Found: /static/admin/css/base.css
+[Sat Sep 28 09:39:56.405515 2019] [wsgi:error] [pid 26359:tid 139761742219008] [remote 49.49.245.239:57247] Not Found: /static/admin/css/responsive.css
+[Sat Sep 28 09:39:56.406109 2019] [wsgi:error] [pid 26359:tid 139761851381504] [remote 49.49.245.239:49491] Not Found: /static/admin/css/dashboard.css
+[Sat Sep 28 09:39:57.576701 2019] [wsgi:error] [pid 26359:tid 139761851381504] [remote 49.49.245.239:44637] Not Found: /static/admin/css/base.css
+[Sat Sep 28 09:39:57.590441 2019] [wsgi:error] [pid 26359:tid 139761733818112] [remote 49.49.245.239:49398] Not Found: /static/admin/css/dashboard.css
+[Sat Sep 28 09:39:57.592894 2019] [wsgi:error] [pid 26359:tid 139761851381504] [remote 49.49.245.239:60659] Not Found: /static/admin/css/responsive.css
+[Sat Sep 28 09:42:49.089584 2019] [authz_core:error] [pid 26582:tid 140479345698560] [client 49.49.245.239:57233] AH01630: client denied by server configuration: /tutorial/django/site, referer: http://167.71.223.184/admin/
+[Sat Sep 28 09:42:49.106075 2019] [authz_core:error] [pid 26583:tid 140479345698560] [client 49.49.245.239:61374] AH01630: client denied by server configuration: /tutorial/django/site, referer: http://167.71.223.184/admin/
+[Sat Sep 28 09:42:49.108799 2019] [authz_core:error] [pid 26582:tid 140479337305856] [client 49.49.245.239:51832] AH01630: client denied by server configuration: /tutorial/django/site, referer: http://167.71.223.184/admin/
+[Sat Sep 28 09:42:50.078250 2019] [authz_core:error] [pid 26583:tid 140479337305856] [client 49.49.245.239:61374] AH01630: client denied by server configuration: /tutorial/django/site, referer: http://167.71.223.184/admin/
+[Sat Sep 28 09:42:50.080357 2019] [authz_core:error] [pid 26582:tid 140479354091264] [client 49.49.245.239:57233] AH01630: client denied by server configuration: /tutorial/django/site, referer: http://167.71.223.184/admin/
+[Sat Sep 28 09:42:50.080833 2019] [authz_core:error] [pid 26583:tid 140479362483968] [client 49.49.245.239:57232] AH01630: client denied by server configuration: /tutorial/django/site, referer: http://167.71.223.184/admin/
+[Sat Sep 28 09:43:26.055802 2019] [authz_core:error] [pid 26697:tid 139620855572224] [client 49.49.245.239:57242] AH01630: client denied by server configuration: /tutorial/site/public/static/admin/css/base.css, referer: http://167.71.223.184/admin/
+[Sat Sep 28 09:43:26.076471 2019] [authz_core:error] [pid 26696:tid 139620847179520] [client 49.49.245.239:61442] AH01630: client denied by server configuration: /tutorial/site/public/static/admin/css/dashboard.css, referer: http://167.71.223.184/admin/
+[Sat Sep 28 09:43:26.084772 2019] [authz_core:error] [pid 26696:tid 139620838786816] [client 49.49.245.239:63824] AH01630: client denied by server configuration: /tutorial/site/public/static/admin/css/responsive.css, referer: http://167.71.223.184/admin/
+[Sat Sep 28 09:43:27.235373 2019] [authz_core:error] [pid 26696:tid 139620830394112] [client 49.49.245.239:61442] AH01630: client denied by server configuration: /tutorial/site/public/static/admin/css/base.css, referer: http://167.71.223.184/admin/
+[Sat Sep 28 09:43:27.235741 2019] [authz_core:error] [pid 26697:tid 139620847179520] [client 49.49.245.239:57242] AH01630: client denied by server configuration: /tutorial/site/public/static/admin/css/responsive.css, referer: http://167.71.223.184/admin/
+[Sat Sep 28 09:43:27.237164 2019] [authz_core:error] [pid 26696:tid 139620822001408] [client 49.49.245.239:57241] AH01630: client denied by server configuration: /tutorial/site/public/static/admin/css/dashboard.css, referer: http://167.71.223.184/admin/
